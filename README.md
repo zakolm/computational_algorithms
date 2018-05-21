@@ -1,4 +1,4 @@
-# компьютерные алгоритмы 4 семестр BMSTU(Bauman Moscow), IU7, 2018
+# Вычислительные алгоритмы 4 семестр BMSTU(Bauman Moscow), IU7, 2018
 <H2>Перенесу все лабы с gitlab, если будет время и желание:)</H2>
 
 | Number | Issued | Status | On GitHub | Exercise |
